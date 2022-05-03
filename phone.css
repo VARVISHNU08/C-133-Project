@@ -1,0 +1,5 @@
+canvas{
+    border: 5px ridge red;
+    border-radius: 50px;
+    box-shadow: 5 5 20 blue;
+}
